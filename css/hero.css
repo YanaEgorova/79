@@ -1,0 +1,12 @@
+.hero__wrapper {
+  border-bottom: 5rem solid var(--second-brand-color);
+}
+.hero {
+  padding: 5rem 0 ;
+}
+.hero .img {
+  max-width:30rem;
+}
+@media screen and (min-width: 1024px) {
+  
+}
